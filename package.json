@@ -1,0 +1,30 @@
+{
+  "name": "betsy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.10.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^20.1.0"
+  },
+  "devDependencies": {
+    "eslint-grunt": "^1.0.0",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcpher2/Betsy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmcpher2/Betsy/issues"
+  },
+  "homepage": "https://github.com/mmcpher2/Betsy#readme",
+  "description": ""
+}
